@@ -18,7 +18,6 @@ require 'rest-client'
 
 # TODO: 注意改成自己的配置，下面的配置并不是真实的
 Conf = OpenStruct.new \
-    appid:      '1244057171',
     secret_id:  'tvUS9R0llq6U2IDfV4ER6tA8KsFd0ZxcVAcw',
     secret_key: 'MT1Yjc1a4ymrg6hq2TtOFf96tGl0a38U',
     host:       'def-1244057171.cos.ap-chongqing.myqcloud.com'
